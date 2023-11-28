@@ -5,13 +5,13 @@ A simple package to create ROS collision objects from a black/white image or a t
 From image:
 
 <p float="left">
-  <img src="/.doc/maze.png" width="35%" />
+  <img src="/.doc/maze.png" width="25%" />
   <img src="/.doc/rviz_bitmap.png" width="35%" /> 
 </p>
 
 From text:
 <p float="left">
-  <img src="/.doc/maze_10.png" width="35%" />
+  <img src="/.doc/maze_10.png" width="20%" />
   <img src="/.doc/maze_txt.png" width="35%" /> 
 </p>
 
@@ -40,4 +40,4 @@ Options on the size of the scenarios (in meters) and resolution of the collision
 
 ### Contacts
 
-@marco-faroni
+Marco Faroni (marco.faroni \[at\] polimit)
