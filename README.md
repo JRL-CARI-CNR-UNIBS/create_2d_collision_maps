@@ -17,16 +17,16 @@ From text:
 
 ### Usage
 
-To create the map from an image ’’’input/images/maze.png’’’:
-’’’
+To create the map from an image ```input/images/maze.png```:
+```
 cd scripts
 python3 create_2d_map_from_image.py
-’’’
+```
 To create the map from an image ’’’input/text/test.txt’’’:
-’’’
+```
 cd scripts
 python3 create_2d_map_from_txt.py
-’’’
+```
 
 ### How to upload the objects to _MoveIt!_
 
