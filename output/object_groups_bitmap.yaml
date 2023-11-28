@@ -1,0 +1,1971 @@
+maze:
+- frame: world
+  position:
+  - 0.025
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.125
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.17500000000000002
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.225
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.325
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.375
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.42500000000000004
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.47500000000000003
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.525
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.5750000000000001
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.675
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.775
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.8250000000000001
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.875
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.975
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.925
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.925
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.17500000000000002
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.225
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.325
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.375
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.42500000000000004
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.775
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.8250000000000001
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.875
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.825
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.825
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.825
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.825
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.825
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.775
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.775
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.775
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.775
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.775
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.775
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.775
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.725
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.725
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.725
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.375
+  - 0.725
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.42500000000000004
+  - 0.725
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.47500000000000003
+  - 0.725
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.725
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.725
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.725
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.675
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.675
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.675
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.675
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.675
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.675
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.125
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.17500000000000002
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.225
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.325
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.375
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.42500000000000004
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.8250000000000001
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.875
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.625
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.525
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.5750000000000001
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.675
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.575
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.5249999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.5249999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.5249999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.5249999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.5249999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.5249999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.475
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.475
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.475
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.475
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.475
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.475
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.42499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.42499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.42499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.5750000000000001
+  - 0.42499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.42499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.42499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.42499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.42499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.125
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.17500000000000002
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.325
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.375
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.42500000000000004
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.8250000000000001
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.875
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.375
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.32499999999999996
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.32499999999999996
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.32499999999999996
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.32499999999999996
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.32499999999999996
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.32499999999999996
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.2749999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.2749999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.2749999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.375
+  - 0.2749999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.42500000000000004
+  - 0.2749999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.47500000000000003
+  - 0.2749999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.2749999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.2749999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.2749999999999999
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.22499999999999998
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.22499999999999998
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.22499999999999998
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.22499999999999998
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.22499999999999998
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.22499999999999998
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.22499999999999998
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.17499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.17499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.17499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.17499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.17499999999999993
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.17500000000000002
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.225
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.325
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.375
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.42500000000000004
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.775
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.8250000000000001
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.125
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.07499999999999996
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.07499999999999996
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.025
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.07500000000000001
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.125
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.17500000000000002
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.225
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.275
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.325
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.375
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.42500000000000004
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.47500000000000003
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.525
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.5750000000000001
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.625
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.675
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.7250000000000001
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.775
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.8250000000000001
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.875
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.925
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+- frame: world
+  position:
+  - 0.9750000000000001
+  - 0.02499999999999991
+  - 0.0
+  quaternion:
+  - 0
+  - 0
+  - 0
+  - 1
+  type: box_50x50mm
+scene_autogenerated_on: 11/27/2023, 17:08:35
