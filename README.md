@@ -40,4 +40,4 @@ Options on the size of the scenarios (in meters) and resolution of the collision
 
 ### Contacts
 
-Marco Faroni (marco.faroni \[at\] polimit)
+Marco Faroni (marco.faroni \[at\] polimi.it)
